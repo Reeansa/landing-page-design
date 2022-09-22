@@ -1,0 +1,9 @@
+.bg-vio {
+  background: rgba(95, 108, 222, 0.75);
+  box-shadow: 0px 8px 40px rgba(0, 0, 0, 0.05);
+}
+
+.btn {
+  background-color: #20123f;
+  border-radius: 31.5px;
+}
