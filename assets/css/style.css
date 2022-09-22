@@ -104,3 +104,79 @@ mark {
 .p-color {
   color: rgba(255, 255, 255, 0.65);
 }
+
+.text-item-carousel {
+  background: #36394e;
+  border-radius: 20px 20px 0px 0px;
+}
+
+/* facebook */
+.svg-menu_facebook, .svg-menu_facebook *
+{
+  transition: all 0.25s ease-out;
+}
+
+.svg-menu_facebook {
+  transform-origin: 50% 50%;
+}
+
+.svg-menu_facebook:hover {
+  transform: scale(1.1);
+}
+
+.svg-menu_facebook:hover .svg-menu_facebook_background *
+{
+  fill: #364FFB;  
+}
+
+/* instagram */
+.svg-menu_instagram, .svg-menu_instagram *
+{
+  transition: all 0.25s ease-out;
+}
+
+.svg-menu_instagram {
+  transform-origin: 50% 50%;
+}
+
+.svg-menu_instagram:hover {
+  transform: scale(1.1);
+}
+
+.svg-menu_instagram:hover .svg-menu_instagram_background *
+{
+  fill: orange;
+}
+
+/* youtube */
+
+/* instagram */
+.svg-menu_youtube, .svg-menu_youtube *
+{
+  transition: all 0.25s ease-out;
+}
+
+.svg-menu_youtube {
+  transform-origin: 50% 50%;
+}
+
+.svg-menu_youtube:hover {
+  transform: scale(1.1);
+}
+
+.svg-menu_youtube:hover .svg-menu_youtube_background *
+{
+  fill: #FF0000;
+}
+
+.text-footer {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+line {
+  border-top: 1px solid rgb(255, 255, 255);
+}
+
+.privacy-text {
+  color: rgba(255, 255, 255, 0.65);
+}
